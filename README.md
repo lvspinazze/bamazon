@@ -1,1 +1,1 @@
-# bamazon
+Bamazon is a Amazon-like storefront created using node.js and MySQL. The app is designed to present customer with store inventory, take in orders from the customer, and deplete stock as the customer makes purchases. 
